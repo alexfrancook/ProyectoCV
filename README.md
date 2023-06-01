@@ -31,4 +31,4 @@ Si tienes alguna pregunta o sugerencia sobre el proyecto, no dudes en ponerte en
 
 ## Certificado del Curso
 
-![Certificado del Curso](pictures/Certificado Desarrollo Frontend_page-0001.jpg)
+![Certificado del Curso](pictures/CertificadoPrimerosPasosFrontend.jpg)
